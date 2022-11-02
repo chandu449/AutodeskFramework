@@ -13,5 +13,4 @@ public class ReadDataInRuntimeTest {
 		System.out.println(BROWSER);
 		System.out.println(URL);
 	}
-
 }

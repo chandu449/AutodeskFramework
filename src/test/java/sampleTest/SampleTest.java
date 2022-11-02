@@ -21,6 +21,4 @@ public class SampleTest {
 	{
 		System.out.println("This is sample method 3");
 	}
-	
-	
 }
