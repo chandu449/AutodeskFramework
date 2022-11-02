@@ -1,54 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
-=======
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
->>>>>>> branch 'master' of https://github.com/chandu449/AutodeskFramework
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-<<<<<<< HEAD
-  <suite started-at="2022-11-02T19:08:10 IST" name="Default suite" finished-at="2022-11-02T19:08:10 IST" duration-ms="101">
-=======
-  <suite started-at="2022-11-02T18:59:32 IST" name="Default suite" finished-at="2022-11-02T18:59:32 IST" duration-ms="113">
->>>>>>> branch 'master' of https://github.com/chandu449/AutodeskFramework
+  <suite started-at="2022-11-02T19:54:48 IST" name="Default suite" finished-at="2022-11-02T19:54:48 IST" duration-ms="100">
     <groups>
     </groups>
-<<<<<<< HEAD
-    <test started-at="2022-11-02T19:08:10 IST" name="Default test" finished-at="2022-11-02T19:08:10 IST" duration-ms="101">
-      <class name="sampleTest.PracticeTest">
-        <test-method signature="script1()[pri:0, instance:sampleTest.PracticeTest@59d016c9]" started-at="2022-11-02T19:08:10 IST" name="script1" finished-at="2022-11-02T19:08:10 IST" duration-ms="13" status="PASS">
-=======
-    <test started-at="2022-11-02T18:59:32 IST" name="Default test" finished-at="2022-11-02T18:59:32 IST" duration-ms="113">
-      <class name="sampleTest.PracticeTest">
-        <test-method signature="script1()[pri:0, instance:sampleTest.PracticeTest@4b5a5ed1]" started-at="2022-11-02T18:59:32 IST" name="script1" finished-at="2022-11-02T18:59:32 IST" duration-ms="17" status="PASS">
->>>>>>> branch 'master' of https://github.com/chandu449/AutodeskFramework
+    <test started-at="2022-11-02T19:54:48 IST" name="Default test" finished-at="2022-11-02T19:54:48 IST" duration-ms="100">
+      <class name="sampleTest.ReadDataInRuntimeTest">
+        <test-method signature="readTest()[pri:0, instance:sampleTest.ReadDataInRuntimeTest@1f3f4916]" started-at="2022-11-02T19:54:48 IST" name="readTest" finished-at="2022-11-02T19:54:48 IST" duration-ms="16" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- script1 -->
-<<<<<<< HEAD
-        <test-method signature="script2()[pri:0, instance:sampleTest.PracticeTest@59d016c9]" started-at="2022-11-02T19:08:10 IST" name="script2" finished-at="2022-11-02T19:08:10 IST" duration-ms="2" status="PASS">
-=======
-        <test-method signature="script2()[pri:0, instance:sampleTest.PracticeTest@4b5a5ed1]" started-at="2022-11-02T18:59:32 IST" name="script2" finished-at="2022-11-02T18:59:32 IST" duration-ms="3" status="PASS">
->>>>>>> branch 'master' of https://github.com/chandu449/AutodeskFramework
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- script2 -->
-<<<<<<< HEAD
-        <test-method signature="script3()[pri:0, instance:sampleTest.PracticeTest@59d016c9]" started-at="2022-11-02T19:08:10 IST" name="script3" finished-at="2022-11-02T19:08:10 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- script3 -->
-        <test-method signature="script4()[pri:0, instance:sampleTest.PracticeTest@59d016c9]" started-at="2022-11-02T19:08:10 IST" name="script4" finished-at="2022-11-02T19:08:10 IST" duration-ms="4" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- script4 -->
-=======
-        <test-method signature="script3()[pri:0, instance:sampleTest.PracticeTest@4b5a5ed1]" started-at="2022-11-02T18:59:32 IST" name="script3" finished-at="2022-11-02T18:59:32 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- script3 -->
->>>>>>> branch 'master' of https://github.com/chandu449/AutodeskFramework
-      </class> <!-- sampleTest.PracticeTest -->
+        </test-method> <!-- readTest -->
+      </class> <!-- sampleTest.ReadDataInRuntimeTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
