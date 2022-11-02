@@ -15,4 +15,12 @@ public class SampleTest {
 	{
 	   System.out.println("This is sample method 2");
 	}
+	
+	@Test
+	public void method3Test()
+	{
+		System.out.println("This is sample method 3");
+	}
+	
+	
 }
