@@ -15,4 +15,11 @@ public class PracticeTest {
 	{
 		System.out.println("It is 2nd script");
 	}
+	
+	@Test
+	public void script3()
+	{
+		System.out.println("It is 3rd script");
+	}
+	
 }
