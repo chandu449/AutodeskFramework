@@ -22,4 +22,10 @@ public class PracticeTest {
 		System.out.println("It is 3rd script");
 	}
 	
+	@Test
+	public void script4()
+	{
+		System.out.println("It is 4th script");
+	}
+	
 }
