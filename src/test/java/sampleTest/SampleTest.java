@@ -20,5 +20,6 @@ public class SampleTest {
 	public void method3Test()
 	{
 		System.out.println("This is sample method 3");
+		System.out.println("This is sample method 4");
 	}
 }
