@@ -1,43 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-03T19:49:27 IST" name="Suite" finished-at="2022-11-03T19:49:27 IST" duration-ms="178">
+  <suite started-at="2022-11-04T20:45:15 IST" name="Default suite" finished-at="2022-11-04T20:45:15 IST" duration-ms="120">
     <groups>
     </groups>
-    <test started-at="2022-11-03T19:49:27 IST" name="Test" finished-at="2022-11-03T19:49:27 IST" duration-ms="178">
-      <class name="sampleTest.PracticeTest">
-        <test-method signature="script1()[pri:0, instance:sampleTest.PracticeTest@60d8c9b7]" started-at="2022-11-03T19:49:27 IST" name="script1" finished-at="2022-11-03T19:49:27 IST" duration-ms="27" status="PASS">
+    <test started-at="2022-11-04T20:45:15 IST" name="Default test" finished-at="2022-11-04T20:45:15 IST" duration-ms="120">
+      <class name="sampleTest.PollTest">
+        <test-method signature="scm()[pri:0, instance:sampleTest.PollTest@1f3f4916]" started-at="2022-11-04T20:45:15 IST" name="scm" finished-at="2022-11-04T20:45:15 IST" duration-ms="16" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- script1 -->
-        <test-method signature="script2()[pri:0, instance:sampleTest.PracticeTest@60d8c9b7]" started-at="2022-11-03T19:49:27 IST" name="script2" finished-at="2022-11-03T19:49:27 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- script2 -->
-        <test-method signature="script3()[pri:0, instance:sampleTest.PracticeTest@60d8c9b7]" started-at="2022-11-03T19:49:27 IST" name="script3" finished-at="2022-11-03T19:49:27 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- script3 -->
-        <test-method signature="script4()[pri:0, instance:sampleTest.PracticeTest@60d8c9b7]" started-at="2022-11-03T19:49:27 IST" name="script4" finished-at="2022-11-03T19:49:27 IST" duration-ms="4" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- script4 -->
-      </class> <!-- sampleTest.PracticeTest -->
-      <class name="sampleTest.SampleTest">
-        <test-method signature="method1Test()[pri:0, instance:sampleTest.SampleTest@3aefe5e5]" started-at="2022-11-03T19:49:27 IST" name="method1Test" finished-at="2022-11-03T19:49:27 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- method1Test -->
-        <test-method signature="method2Test()[pri:0, instance:sampleTest.SampleTest@3aefe5e5]" started-at="2022-11-03T19:49:27 IST" name="method2Test" finished-at="2022-11-03T19:49:27 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- method2Test -->
-        <test-method signature="method3Test()[pri:0, instance:sampleTest.SampleTest@3aefe5e5]" started-at="2022-11-03T19:49:27 IST" name="method3Test" finished-at="2022-11-03T19:49:27 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- method3Test -->
-      </class> <!-- sampleTest.SampleTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- scm -->
+      </class> <!-- sampleTest.PollTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
