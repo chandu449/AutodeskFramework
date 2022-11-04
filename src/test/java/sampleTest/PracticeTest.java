@@ -27,4 +27,10 @@ public class PracticeTest {
 	{
 		System.out.println("It is 4th script");
 	}
+	
+	@Test
+	public void script5()
+	{
+		System.out.println("It is 5th script");
+	}
 }
