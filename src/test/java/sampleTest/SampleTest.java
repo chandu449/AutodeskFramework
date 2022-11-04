@@ -21,5 +21,6 @@ public class SampleTest {
 	{
 		System.out.println("This is sample method 3");
 		System.out.println("This is sample method 4");
+		System.out.println("This is sample method 5");
 	}
 }
